@@ -1,0 +1,6 @@
+*.class
+*.interp
+*.tokens
+*.jar
+*.pyc
+__pycache__/
