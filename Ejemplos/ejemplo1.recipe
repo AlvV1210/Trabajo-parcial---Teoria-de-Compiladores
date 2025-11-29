@@ -1,0 +1,6 @@
+recipe "Tallarines";
+ingredient harina 200g costPerUnit 1.5;
+ingredient agua 500ml costPerUnit 0.0;
+step mezclar harina agua;
+step hervir agua dependsOn mezclar;
+totalCost;
